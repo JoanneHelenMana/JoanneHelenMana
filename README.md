@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JoanneHelenMana
 - 🌱 I’m currently a student of the Certificate IV in Information Technology (Programming) at NMTAFE in WA, Australia.
+- 🌟 I'm learning Python and C# at the moment.
 
 
 <!---
