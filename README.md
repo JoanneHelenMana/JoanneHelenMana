@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joanne!
 - 🌱 I’m currently completing a Certificate IV in Information Technology (Programming) at NMTAFE in WA, Australia.
-- 🌟 I'm learning Python, C# and MySQL at the moment.
+- 🌟 I'm learning C#, JavaScript, HTML and CSS at the moment.
 
 
 <!---
